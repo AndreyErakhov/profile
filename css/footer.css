@@ -1,0 +1,27 @@
+/*FOOTER*/
+
+.footer__content {
+    background-color: var(--accent);
+}
+
+.footer__content-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__content-icon {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 33px 0 35px;
+}
+
+.footer__content-text {
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: -0.5px;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
