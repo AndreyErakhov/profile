@@ -65,7 +65,7 @@ a:hover  {
 
 /* Common */
 
-aside, nav, footer, header, section, main {
+aside, nav, footer, header, article, main {
 	display: block;
 }
 
